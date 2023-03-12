@@ -14,7 +14,7 @@ use pocketmine\plugin\Pluginbase;
 
 use pocketmine\player\Player;
 
-use pocketmine\server;
+use pocketmine\Server;
 
 use FormAPI\SimpleForm;
 
